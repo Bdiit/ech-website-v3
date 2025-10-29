@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@auth/prisma-adapter": "^1.3.3",
+    "@auth/prisma-adapter": "^2.11.1",
     "@fullcalendar/core": "^6.1.11",
     "@fullcalendar/daygrid": "^6.1.11",
     "@fullcalendar/google-calendar": "^6.1.11",
@@ -30,7 +30,7 @@
     "embla-carousel-react": "^8.0.0-rc22",
     "framer-motion": "^10.16.16",
     "next": "14.0.4",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.12",
     "next-cloudinary": "^5.20.0",
     "react": "^18",
     "react-dom": "^18",
